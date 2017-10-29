@@ -1,1 +1,3 @@
 #inclue <iostream>
+int main() {
+}
