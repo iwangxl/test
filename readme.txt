@@ -3,7 +3,7 @@ hello
 
 pretty girl
 handsome boy
-wow
+wow fix bug
 creating a new branche is quick & simple.
 creating a new branche is quick and simple
 dev
